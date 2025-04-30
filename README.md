@@ -81,10 +81,11 @@ A system designed to reconcile and report discrepancies in financial transaction
 ### Generate Test Data
 
 You can generate sample test data using the provided script:
+A test data has already been generated you can use it to test the system.
 
 ```bash
 cd testdata
-go run generate_sample_data.go
+go run generate_testdata_data.go
 ```
 
 This will create two CSV files with controlled discrepancies for testing.
