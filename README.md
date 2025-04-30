@@ -41,8 +41,8 @@ A system designed to reconcile and report discrepancies in financial transaction
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/transaction-reconciliation.git
-   cd transaction-reconciliation
+   git clone https://github.com/LorenzoChukwuebuka/purple-gate-assesment-transaction-reconciliation.git
+   cd into the project directory
    ```
 
 2. Install Go dependencies:
@@ -54,7 +54,7 @@ A system designed to reconcile and report discrepancies in financial transaction
    ```bash
    go run main.go
    ```
-   The server will start at http://localhost:8080
+   The server will start at http://localhost:7080
 
 ### Frontend Setup
 
